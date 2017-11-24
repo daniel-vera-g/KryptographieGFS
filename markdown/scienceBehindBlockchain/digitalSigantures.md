@@ -9,3 +9,4 @@ Eine digitale Unterschrift wie sie für die Kryptographie in der Blockchain benu
 Mit einer physischen Unterschrift als Signatur stößt spätestens bei dem zweiten Punkt auf Probleme. Aus dem Grund benutzt man digitale Siganturen in der Blockchain, die alle drei Punkte erfüllen. In der Blockchain werden diese Digitale Signaturen mithilfe von sogennaten "Schlüsseln" erstellt.
 
 
+Quelle: https://blockgeeks.com/guides/cryptocurrencies-cryptography/

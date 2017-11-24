@@ -20,3 +20,7 @@ Mit diesen ersten einleitenden Worte kann man Forderungen aufstellen die eine Kr
 * Beide Kommunikationspartner sollten Gewissheit über die Authentizität des Kommunikationspartners haben. 
 4. Key Management
 * Die Erzeugung, Verwahrung und Weitergabe der Schlüssel muss sicher sein.
+
+
+Quelle : Grundkurs Informatik : Grundlagen und Konzepte für die erfolgreiche IT-Praxis - eine umfassende, praxisorientierte Einführung / Hartmut Ernst ; Jochen Schmidt ; Gerd Beneken. - 5., vollst. überarb. Aufl..
+

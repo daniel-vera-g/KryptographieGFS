@@ -10,3 +10,5 @@ Die entschlüsselte Nachricht x ergibt sich aus, der decription(English für Ver
 
 Da die symmetrische Verschlüsselung den gleichen Schlüssel zur ver und Entschlüsselung benutzt kann man hier die größte Schwachstelle beobachten.
 Es wird der gleiche Schlüssel benutzt. Dieser muss somit weitergegeben werden. Hierbei tritt die größte Gefahr beim benutzen von symmetrischen Verfahren auf.
+
+Quelle: Grundkurs Informatik : Grundlagen und Konzepte für die erfolgreiche IT-Praxis - eine umfassende, praxisorientierte Einführung / Hartmut Ernst ; Jochen Schmidt ; Gerd Beneken. - 5., vollst. überarb. Aufl..

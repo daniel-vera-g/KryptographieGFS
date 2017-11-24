@@ -1,3 +1,5 @@
+Quelle: Mathematik sehen und verstehen: Schlüssel zur Welt
+
 Das Modulo rechnen ist eine wichtige Rechenart die für Cryptographische berechnungen sehr von Bedeutung ist.
 Das modulo rechenen basiert auf dem Gedanken des Teilen mit Rest.
 

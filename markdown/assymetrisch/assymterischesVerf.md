@@ -8,3 +8,5 @@ x = d(y,kd)
 Die Nachricht x wird aus der Funktion d(englisch für decription), der verschlüsselten Nachricht y und dem nur ihm bekannten privaten Schlüssel kd.
 
 Die Probleme und schwächen des Asymetrischen Verfahrens ist die Verwaltung der öffentlichen Schlüssel. 
+
+Quelle: Grundkurs Informatik : Grundlagen und Konzepte für die erfolgreiche IT-Praxis - eine umfassende, praxisorientierte Einführung / Hartmut Ernst ; Jochen Schmidt ; Gerd Beneken. - 5., vollst. überarb. Aufl..

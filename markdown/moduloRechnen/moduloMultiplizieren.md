@@ -1,3 +1,5 @@
+Quelle: Mathematik sehen und verstehen: Schlüssel zur Welt
+
 # Modulo Multiplizieren 
 In der Cryptographie ist das rechnen mit Modulo sehr wichtig. Hierbei kommt die 0 vor. Sie kommt vor wenn man mit Zahlen multipliziert die einen gemeinsamen Primfaktor mit der Modulzahl haben. 
 
