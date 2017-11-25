@@ -6,4 +6,5 @@ Um potenzberechnungen zu machen, die mit großen Zahlen ablaufne behilft man sic
 
 Wichtig für die Kryptographie ist die Ordnung k eines Elementes.
 Dabei lautet die regel folgendermaßen: 
-> Die Ordnung  eines Elementes k entspricht der kleinsten Zahl für 
+> Die Ordnung  eines Elementes k entspricht der kleinsten Zahl für a ^k = 1.
+> 
