@@ -61,4 +61,3 @@ Wenn man in der Menge Zn* potenzieren möchte geht dies nach dem Bestimmen der g
 > a elementn Z*n --> a^k+phi(n)+ r = a^r 
   ## Beipiel 
 > Z*20 --> bsp bringen 
-
