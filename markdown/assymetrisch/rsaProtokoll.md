@@ -9,4 +9,13 @@ Die Einwegfunktion ist dabei die Potenzfunktion zum verschlüseln der Nachricht.
 ### Schlüsselerzeugungsphase
 Die Schlüsselerzeigungsphase gliedert sich in 5 Schritten: 
 1. Als erstes wählt man zwei Primzahlen p und q.
-2. 
+2. Die zuvor gewählten Primzahlen werden zu einer Zahl N multipliziert. 
+3. Mit dem Satz von Euler berechnet man dann phi(n)
+4. Man bestimmt eine Primzahl e, wobei e mit ggT(e, phi) = 1.  
+Der Public Key bestimmt sich dabei aus den Zahlen N und e
+5. 
+--> Überabeiten oder auslassen 
+
+
+--> Überabeiten, master & vlt Beispiel ?
+--> Übern 
