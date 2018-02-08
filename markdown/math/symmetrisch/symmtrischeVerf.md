@@ -1,3 +1,5 @@
+# Symmetrische Verfahren
+
 Die Symmetrische Verschlüsselung basiert darauf, dass es nur einen Geheimen Schlüssel zum verschlüsseln und zum entschlüsseln gibt.
 
 Diesen geheimen Schlüssel wird oft mit k bezeichnen. 

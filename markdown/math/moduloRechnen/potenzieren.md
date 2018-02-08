@@ -1,7 +1,5 @@
-Quelle: Mathematik sehen und verstehen: Schlüssel zur Welt
-S 25ff
-http://www.arndt-bruenner.de/mathe/scripts/primzahlen.htm(8.12.17)
 # Potenzieren mit modulo 
+
 Das Potenzieren von moduln spielt in der Crytographie ebenso eine wichtige Rolle. Der Grund dafür ist, dass es sehr schwer ist potenzen von Großen Zahlen herauszufinden.
 Um potenzberechnungen zu machen, die mit großen Zahlen ablaufne behilft man sich verschiederner Potenzgesetze. 
 
@@ -12,10 +10,11 @@ Dabei lautet die regel folgendermaßen:
 > Die Ordnung einer Gruppe G entspricht der Anzahl an elementen.
 > ord(G) = |G|
 
-An einem Beispiel Verdeutlicht: 
+An einem Beispiel Verdeutlicht:  
 Die Prime Restklasse von 14 Z*14, hat folgende Potenzierungstabelle: 
 --> tabelle einfügen
-Die Prime Restklasse hat die Grupppenordnung von 6, da des die Anzahl der Elemente sind. 
+Die Prime Restklasse hat die Grupppenordnung von 6, da des die Anzahl der Elemente sind.
+
 1.  Die Elemente 3 und 5 haben eine Ordnung von 6, da die Kleinste Zahl die man für k in 3 ^k mod 14 und 5 ^5 mod 14 einsetzen kann 6 ist. 
 2. Die Elemente 9 und 11 haben die Ordnung 3, da 9 ^ 3 mod 14 und 11 ^3 mod 14 1 ergibt und dies die kleinstmögliche Potenz ist. 
 3. Das Element 13 hat die Ordnung 2, da die kleinste Potenz hierbei 2 ist. 
@@ -28,6 +27,7 @@ Hierraus ergibt sich eine zweite wichtige Regel:
 > Die Elementordnung teilt die Gruppenordnung.
 
 # Anzahl der Teilerfremde Elemente für Primzahlen und Produkte von zwei Primzahlen
+
 Mithilfe überlegungen des Mathematikers Leonard Eulers lässt dich leicht feststellen wie viele teilerfremde Elemente ein oder zwei Primzahlen haben. 
 Dies ist wichtig zu wissen, wie wir noch im Verlauf feststellen werden. 
 > phi(n) bezeichnet die Anzahl der Elemente in Z*n. --> Mathematisch hinschreiben
@@ -35,15 +35,18 @@ Dies ist wichtig zu wissen, wie wir noch im Verlauf feststellen werden.
 > Für Primzahlen p und q...
 
 # Eulerscher Satz
+
 Der Eulerscher Satz ist unter anderem ein weitere wichtiger mathematischer Satz den man in der Kryptographie braucht. Er besagt, dass wenn man ein Element a von Zn* mit der Anzahl der Elementen von Zn* potenziert man immer 1 erhält.
 > a^phi(n) mod n = 1
 
 # Kleiner Satz von Fermat
+
 Wenn man den Eulereschen Satz fortführt kommt man bei dem kleinen Satz von Fermat an. Dieser besagt, dass:
 > bei p prim --> a^p-1 mod p = 1
 > dabei ist a kleiner p und größer 0
 
 ## Beispiel
+
 Es ist die Menge Z*14 gegeben. 
 Die menge der Teilerfremden Primzahlen kann mit den oberen Überlegungen berechnet werden.
 1. Primfaktorzerlegung oder falls es kein Produkt zweier Primzahlen ist berechnung von der Anazahl von Primzahlen bis gewisse Zahl:
@@ -57,7 +60,13 @@ Die menge der Teilerfremden Primzahlen kann mit den oberen Überlegungen berechn
 > für alle a ist element Z14*
 
 # Potenzieren in Zn*
+
 Wenn man in der Menge Zn* potenzieren möchte geht dies nach dem Bestimmen der gruppenordnung recht einfach. Man rechnet hierbei im Exponenten mit phi(n). Das heißt, dass die vilefachen der Gruppenordnung im expoenent gar nicht zu Wirkung kommen. Man macht also: 
 > a elementn Z*n --> a^k+phi(n)+ r = a^r 
-  ## Beipiel 
+## Beipiel 
+
 > Z*20 --> bsp bringen 
+
+Quelle: Mathematik sehen und verstehen: Schlüssel zur Welt
+S 25ff
+http://www.arndt-bruenner.de/mathe/scripts/primzahlen.htm(8.12.17)

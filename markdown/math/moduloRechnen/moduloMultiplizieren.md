@@ -1,6 +1,5 @@
-Quelle: Mathematik sehen und verstehen: Schlüssel zur Welt
+# Modulo Multiplizieren
 
-# Modulo Multiplizieren 
 In der Cryptographie ist das rechnen mit Modulo sehr wichtig. Hierbei kommt die 0 vor. Sie kommt vor wenn man mit Zahlen multipliziert die einen gemeinsamen Primfaktor mit der Modulzahl haben. 
 
 Da man in der Cryptographie diese sogenennten Nullteiler vermeiden will nimmt man sie aus dem Moduln Zn raus. Dabei ergeben sich dann die Menge aller Zahlen die mit n keinen gemeinsamen Primfaktor haben. Man bezeichnet diese Menge als Z*n
@@ -20,6 +19,7 @@ Inverse sind in der Cryptographie sehr wichtig. Dies wird spätestens dann deutl
 Dort kann man, wie im späteren verlauf zu sehen, mithilfe der Inverse vershlüsselte Zahlen entschlüsseln. 
 
 Im folgenden ein Beispiel welche die wichtigkeit der Inverse verdeutlichen soll:
+
 * Daniel möchte eine Nachricht an Lukas senden.
 1. Daniel wählt eine Nachricht m, ein öffentliches Schlüsselpaar (n, e).  
 2. Daniel rechnet m ^ e modulo n und sendet das Ergebniss c and 
@@ -30,3 +30,5 @@ Eine tiefgründigere Erklärung des Verfahrens wird im praktischen Teil näher e
 
 Inverse geben ebenso aufschluss auf die Frage warum die Kryptographie so sicher ist.
 Das berechnen von den Inversen ist recht einfach. Vorausgesetzt man kennt in diesem Falle die Nachricht m. Kennt man diese nicht ist es sehr schwer bis unmöglich in großen Restklasssengruppen die Inverse zu berechnen.
+
+Quelle: Mathematik sehen und verstehen: Schlüssel zur Welt
