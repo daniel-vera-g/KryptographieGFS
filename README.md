@@ -1,3 +1,4 @@
-# KryptographieGFS
-This repo contains the files of my Kryptographie GFS. 
-It is Intendet to give an Introduction to the cryptographie behind the Blockchain
+# Cryptography GFS
+
+This repository contains the files of my cryptography GFS for.
+It is Intended to give an introduction to the cryptography behind the Blockchain.
